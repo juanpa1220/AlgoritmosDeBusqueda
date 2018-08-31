@@ -3,4 +3,4 @@ project(AlgoritmosDeBusqueda)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(AlgoritmosDeBusqueda main.cpp)
+add_executable(AlgoritmosDeBusqueda busquedas/main.cpp)
